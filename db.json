@@ -29,6 +29,7 @@
     }
   ],
   "profile": {
-    "name": "Profile 1"
+    "login": "lol",
+"password": "123"
   }
 }
