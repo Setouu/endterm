@@ -28,9 +28,10 @@
       "postId": 1
     }
   ],
-  "profile": {
+  "profiles":[ {
      "id": 1,
     "login": "lol",
 "password": "123"
   }
+              ]
 }
